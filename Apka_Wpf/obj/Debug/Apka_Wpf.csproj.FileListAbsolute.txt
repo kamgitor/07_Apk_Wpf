@@ -1,0 +1,14 @@
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\bin\Debug\Apka_Wpf.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\bin\Debug\Apka_Wpf.pdb
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Window1.baml
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\App.g.cs
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Apka_Wpf_MarkupCompile.cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Apka_Wpf.g.resources
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Apka_Wpf.Properties.Resources.resources
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Apka_Wpf.csproj.GenerateResource.Cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Apka_Wpf.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Apka_Wpf\obj\Debug\Apka_Wpf.pdb
+E:\Robocze\!Visual C#\07 Apk_Wpf\Apka_Wpf\Apka_Wpf\obj\Debug\Apka_Wpf.exe
+E:\Robocze\!Visual C#\07 Apk_Wpf\Apka_Wpf\Apka_Wpf\obj\Debug\Apka_Wpf.pdb
